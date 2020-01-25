@@ -6,10 +6,7 @@
 只要将所在城市的名称发送给公众号，就会返回对应省份的实时疫情数据。
 举个🌰：
 
-<img src="https://s2.ax1x.com/2020/01/25/1eXRlF.jpg" width="150" hegiht="200" align=center />
-
-<img src="https://s2.ax1x.com/2020/01/25/1eX2SU.jpg" width="150" hegiht="200" align=center />
-<img src="https://s2.ax1x.com/2020/01/25/1eXRlF.jpg" width="150" hegiht="200" align=center />
+<img src="https://s2.ax1x.com/2020/01/25/1eXRlF.jpg" width="150" hegiht="200" align=center /><img src="https://s2.ax1x.com/2020/01/25/1eX2SU.jpg" width="150" hegiht="200" align=center /><img src="https://s2.ax1x.com/2020/01/25/1eXRlF.jpg" width="150" hegiht="200" align=center />
 
 数据来源：丁香园
 
