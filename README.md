@@ -12,4 +12,4 @@
 
 欢迎各位关注我的公众号 同时也希望大家能提一点小建议～：
 
-<img src="https://s2.ax1x.com/2020/01/25/1eXvmd.jpg" width="200" hegiht="200" align=center />
+<img src="https://raw.githubusercontent.com/echo-cool/2019-nCov/master/img/qrcode.jpg" width="200" hegiht="200" align=center />
